@@ -1,4 +1,4 @@
-# Helicancylus pilsbryi (Anderson, 1938) - LACMIP 9951.3 - LACM Invertebrate Paleontology - 73e389aa-5886-4c48-8778-ba8932d1bd7e https://www.gbif.org/occurrence/2012640793
+# Helicancylus pilsbryi (Anderson, 1938) - LACMIP 9951.3 - LACM Invertebrate Paleontology - 576cbe09-6484-4f87-b15d-b8a17c90a835	 https://www.gbif.org/occurrence/2012640793
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7114321.svg)](https://doi.org/10.5281/zenodo.7114321) 
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi.html)
