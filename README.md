@@ -1,7 +1,7 @@
 # Helicancylus pilsbryi (Anderson, 1938) - LACMIP 9951.3 - LACM Invertebrate Paleontology - 576cbe09-6484-4f87-b15d-b8a17c90a835	 https://www.gbif.org/occurrence/2012640793
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7577643.svg)](https://doi.org/10.5281/zenodo.7577643) 
 
-[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi.html)
+[![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi)
 
 [![image](data/3f/44/3f441786c6484fbdb484a15bec466f1218d39bb54767c19cc09987df949c0c19)](data/3f/44/3f441786c6484fbdb484a15bec466f1218d39bb54767c19cc09987df949c0c19)
 
@@ -11,8 +11,7 @@
 
 ## 3D Model
 
-[View 3D Model](./LACMIP_9951-3_Helicancylus_pilsbryi.html)
-[Download 3D Model](./LACMIP_9951-3_Helicancylus_pilsbryi.zip)
+3D Model [View](./LACMIP_9951-3_Helicancylus_pilsbryi.html) [Download](./LACMIP_9951-3_Helicancylus_pilsbryi.zip)
 
 
 # References
