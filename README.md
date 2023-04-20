@@ -20,11 +20,10 @@ Helicancylus pilsbryi (Anderson, 1938) - LACMIP 9951.3 - LACM Invertebrate Paleo
 
 https://sketchfab.com/3d-models/lacmip-99513-hamiticeras-pilsbryi-e9ddba7c2cff454cbe67ebdceecba6e4
 
-```
-CATALOG #: LACMIP 9951.3; SCIENTIFIC NAME: Hamiticeras pilsbryi Anderson, 1938; HIGHER CLASSIFICATION: Animalia | Mollusca | Cephalopoda | Ammonoidea | Ancyloceratina | Ancyloceratidae | Hamiticeras; HIGHER GEOGRAPHY: North America | United States | California | Shasta County; AGE: Early Cretaceous: Aptian - Early Cretaceous: Aptian; FORMATION: Budden Canyon Formation
 
-CREATOR: Lindsay Walker (NHMLA/LACMIP); DATE: 2018; MODALITY: NextEngine 3D Scanner; DEVICE FACILITY: Raymond Alf Museum of Paleontology; CITATION: LACMIP 9951.3 (Natural History Museum of Los Angeles County, Invertebrate Paleontology Collection); DATASET NAME: Cretaceous World TCN (NSF 1902262), Cretaceous Seas of California (NSF 1561429); occurrenceID: 576cbe09-6484-4f87-b15d-b8a17c90a835; collectionID: urn:uuid:3d086afe-1145-4aaf-a0c1-aab5d83a8c38; institutionID: urn:lsid:biocol.org:col:34802
-```
+> CATALOG #: LACMIP 9951.3; SCIENTIFIC NAME: Hamiticeras pilsbryi Anderson, 1938; HIGHER CLASSIFICATION: Animalia | Mollusca | Cephalopoda | Ammonoidea | Ancyloceratina | Ancyloceratidae | Hamiticeras; HIGHER GEOGRAPHY: North America | United States | California | Shasta County; AGE: Early Cretaceous: Aptian - Early Cretaceous: Aptian; FORMATION: Budden Canyon Formation
+
+> CREATOR: Lindsay Walker (NHMLA/LACMIP); DATE: 2018; MODALITY: NextEngine 3D Scanner; DEVICE FACILITY: Raymond Alf Museum of Paleontology; CITATION: LACMIP 9951.3 (Natural History Museum of Los Angeles County, Invertebrate Paleontology Collection); DATASET NAME: Cretaceous World TCN (NSF 1902262), Cretaceous Seas of California (NSF 1561429); occurrenceID: 576cbe09-6484-4f87-b15d-b8a17c90a835; collectionID: urn:uuid:3d086afe-1145-4aaf-a0c1-aab5d83a8c38; institutionID: urn:lsid:biocol.org:col:34802
 
 # Appendix A
 ## Provenance
