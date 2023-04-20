@@ -10,7 +10,7 @@
 
 Provenance logs available via [hash://sha256/4e0f...](./data/4e/0f/4e0f93cb1fa122c25e853709b3d28ce9d9f898e9fb30c858eb5def0ae4bfc73e)
 
-## [View](./LACMIP_9951-3_Helicancylus_pilsbryi.html) [Download](./LACMIP_9951-3_Helicancylus_pilsbryi.zip) 3D Model
+[View](./LACMIP_9951-3_Helicancylus_pilsbryi.html) / [Download](./LACMIP_9951-3_Helicancylus_pilsbryi.zip) 3D Model
 
 # References
 
