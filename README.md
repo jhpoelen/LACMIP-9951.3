@@ -4,16 +4,13 @@
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/jhpoelen/LACMIP_9951-3_Helicancylus_pilsbryi)
 
-[![image](data/3f/44/3f441786c6484fbdb484a15bec466f1218d39bb54767c19cc09987df949c0c19)](data/3f/44/3f441786c6484fbdb484a15bec466f1218d39bb54767c19cc09987df949c0c19)
+[![image](data/3f/44/3f441786c6484fbdb484a15bec466f1218d39bb54767c19cc09987df949c0c19)](./LACMIP_9951-3_Helicancylus_pilsbryi.html)
 
 <a href="./data/4e/0f/4e0f93cb1fa122c25e853709b3d28ce9d9f898e9fb30c858eb5def0ae4bfc73e"><img src="./label.png" style="height:5em"></a> 
 
-[hash://sha256/4e0f...](./data/4e/0f/4e0f93cb1fa122c25e853709b3d28ce9d9f898e9fb30c858eb5def0ae4bfc73e)
+Provenance logs available via [hash://sha256/4e0f...](./data/4e/0f/4e0f93cb1fa122c25e853709b3d28ce9d9f898e9fb30c858eb5def0ae4bfc73e)
 
-## 3D Model
-
-3D Model [View](./LACMIP_9951-3_Helicancylus_pilsbryi.html) [Download](./LACMIP_9951-3_Helicancylus_pilsbryi.zip)
-
+## [View](./LACMIP_9951-3_Helicancylus_pilsbryi.html) [Download](./LACMIP_9951-3_Helicancylus_pilsbryi.zip) 3D Model
 
 # References
 
